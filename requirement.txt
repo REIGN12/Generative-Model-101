@@ -1,0 +1,14 @@
+# basic pkgs
+pip
+numpy
+matplotlib
+jupyter
+
+# util pkgs
+requests
+typer
+
+# auto-grad pkgs
+torch
+torchvision
+torchaudio
